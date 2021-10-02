@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. BasicsInJava/1. BasicsInJava.iml" filepath="$PROJECT_DIR$/1. BasicsInJava/1. BasicsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. InterfacesInJava/10. InterfacesInJava.iml" filepath="$PROJECT_DIR$/10. InterfacesInJava/10. InterfacesInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. ThisSuperInJava/11. ThisSuperInJava.iml" filepath="$PROJECT_DIR$/11. ThisSuperInJava/11. ThisSuperInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. ConstructorInJava/12. ConstructorInJava.iml" filepath="$PROJECT_DIR$/12. ConstructorInJava/12. ConstructorInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. MethodOverloadingInJava/13. MethodOverloadingInJava.iml" filepath="$PROJECT_DIR$/13. MethodOverloadingInJava/13. MethodOverloadingInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. ExceptionInJava/14. ExceptionInJava.iml" filepath="$PROJECT_DIR$/14. ExceptionInJava/14. ExceptionInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. IOStreamInJava/15. IOStreamInJava.iml" filepath="$PROJECT_DIR$/15. IOStreamInJava/15. IOStreamInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16. CollectionInJava/16. CollectionInJava.iml" filepath="$PROJECT_DIR$/16. CollectionInJava/16. CollectionInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. OperatorsInJava/2. OperatorsInJava.iml" filepath="$PROJECT_DIR$/2. OperatorsInJava/2. OperatorsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. LoopsInJava/3. LoopsInJava.iml" filepath="$PROJECT_DIR$/3. LoopsInJava/3. LoopsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ArraysInJava/4. ArraysInJava.iml" filepath="$PROJECT_DIR$/4. ArraysInJava/4. ArraysInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. StaticInJava/5. StaticInJava.iml" filepath="$PROJECT_DIR$/5. StaticInJava/5. StaticInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. StringsInJava/6. StringsInJava.iml" filepath="$PROJECT_DIR$/6. StringsInJava/6. StringsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. InheritanceInJava/7. InheritanceInJava.iml" filepath="$PROJECT_DIR$/7. InheritanceInJava/7. InheritanceInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. AccessModifiersInJava/8. AccessModifiersInJava.iml" filepath="$PROJECT_DIR$/8. AccessModifiersInJava/8. AccessModifiersInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. AbstractClassInJava/9. AbstractClassInJava.iml" filepath="$PROJECT_DIR$/9. AbstractClassInJava/9. AbstractClassInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAConcepts.iml" filepath="$PROJECT_DIR$/.idea/JAVAConcepts.iml" />
+    </modules>
+  </component>
+</project>
